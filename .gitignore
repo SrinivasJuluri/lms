@@ -1,4 +1,4 @@
-# ignore ALL .log files
+# ignore ALL .log files in the repository !...
 *.log
 
 # ignore ALL files in ANY directory named temp

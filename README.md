@@ -1,2 +1,2 @@
 # lms
-onestrike-lms repo
+This is SAP OSK SuccessFactors - lms module repository !...
